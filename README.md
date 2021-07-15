@@ -2,7 +2,7 @@
 
 ## Spring Boot Rest Api
 
-<img src="../src/main/resources/static/icon/heroku-icon.svg" style="width: 30px">
+<img src="./src/main/resources/static/icon/heroku-icon.svg" style="width: 30px">
 <br>
 <a href="#">Api Rest</a>
 
